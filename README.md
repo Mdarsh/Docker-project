@@ -86,7 +86,7 @@ version: ‘3’
 services:
 
 
-dbos:
+    dbos:
 
 
 image: mysql:5.7
